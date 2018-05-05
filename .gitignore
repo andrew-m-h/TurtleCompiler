@@ -1,0 +1,10 @@
+*
+!Turtle/
+!Turtle/**
+!src/
+!src/**
+!TurtleCompiler.cabal
+!stack.yaml
+!LICENSE
+!Setup.hs
+!.gitignore
